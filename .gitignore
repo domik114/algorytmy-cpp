@@ -1,0 +1,11 @@
+# Ignorowanie wszystkich folderów .vs w całym repozytorium
+.vs/
+
+# ignoruj pliki
+*.sln
+*.user
+*.xml
+*.txt
+
+# Ignorowanie wszystkich folderów Debug w całym repozytorium
+Debug/
